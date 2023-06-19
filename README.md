@@ -7,7 +7,7 @@ Bienvenido a Alpa Gourmet, este es un e-commerce dedicado a todo lo que puedas i
 
  Alpa Gourmet esta dirigido a paladares de todas las edades, desde pequeños futuros cocineros, personas con gran experiencia en el sector, aprendices o simplmente pasantes que por el momento estan buscando un lugar de confianza donde hacer la compra de sus productos y conocer fabulosas recetas.
 
-## Referencia de colores
+## Referencia de colores:
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -16,6 +16,15 @@ Bienvenido a Alpa Gourmet, este es un e-commerce dedicado a todo lo que puedas i
 | Color terceario| ![#B6AD90](https://via.placeholder.com/10/B6AD90?text=+) #B6AD90 |
 | Color extra| ![#C2C5AA](https://via.placeholder.com/10/C2C5AA?text=+) #C2C5AA |
 | Color extra 2| ![#656D4A](https://via.placeholder.com/10/656D4A?text=+) #656D4A |
+
+
+## Referencias tipograficas:
+
+- [Principal: Gelasio  //  (https://fonts.google.com/specimen/Gelasio) 
+
+- [Secundaria: Inter //  (https://fonts.google.com/specimen/Inter?preview.size=18&preview.text_type=paragraph)
+
+- [Extra: Roboto mono  //  (https://fonts.google.com/specimen/Roboto+Mono?preview.size=18&preview.text_type=paragraph)
 
 ## Autor:
 
