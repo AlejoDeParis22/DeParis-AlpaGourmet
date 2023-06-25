@@ -3,19 +3,20 @@
 
 # Alpa Gourmet 
 
-Bienvenido a Alpa Gourmet, este es un e-commerce dedicado a todo lo que puedas imaginar sobre cocina, desde productos, recetas y mucho mas. Este proyecto creado por "AlpaDevs" en el año 2023, nace de un gusto por la cocina y todo lo que la concierne, y una necesidad de generar la posibilidad de adquisicion de productos para la misma de una manera sencilla a traves de esta pagina.
+Bienvenido a Alpa Gourmet, este es un e-commerce dedicado a todo lo que puedas imaginar sobre cocina, desde productos, recetas y mucho mas. Este es un proyecto creado por “AlpaDev” en el año 2023, el cual nace de un gusto por la cocina, todo lo que la concierne y ademas una necesidad de generar la posibilidad de adquisicion de productos para la misma de una manera sencilla y segura a traves de nuestra pagina.
 
  Alpa Gourmet esta dirigido a paladares de todas las edades, desde pequeños futuros cocineros, personas con gran experiencia en el sector, aprendices o simplmente pasantes que por el momento estan buscando un lugar de confianza donde hacer la compra de sus productos y conocer fabulosas recetas.
+
+ Te invitamos a conocer nuestro sitio web, y a conocernos a traves de nuestras redes sociales, a demas estan abiertas nuestras lineas de contacto por cualquier opinion o consulta.
 
 ## Referencia de colores:
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Color principal | ![#8F5828](https://via.placeholder.com/10/8F5828?text=+) #8F5828 |
-| Color secundario| ![#BA854F](https://via.placeholder.com/10/BA854F?text=+) #BA854F |
-| Color terceario| ![#B6AD90](https://via.placeholder.com/10/B6AD90?text=+) #B6AD90 |
-| Color extra| ![#C2C5AA](https://via.placeholder.com/10/C2C5AA?text=+) #C2C5AA |
-| Color extra 2| ![#656D4A](https://via.placeholder.com/10/656D4A?text=+) #656D4A |
+| Color principal | ![#CDB6A2](https://via.placeholder.com/10/CDB6A2?text=+) #CDB6A2 |
+| Color secundario| ![#8F5828](https://via.placeholder.com/10/8F5828?text=+) #8F5828 |
+| Color terceario| ![#D9D9D9](https://via.placeholder.com/10/D9D9D9?text=+) #D9D9D9 |
+| Color extra| ![#5A734E](https://via.placeholder.com/10/5A734E?text=+) #5A734E |
 
 
 ## Referencias tipograficas:
@@ -25,6 +26,9 @@ Bienvenido a Alpa Gourmet, este es un e-commerce dedicado a todo lo que puedas i
 - [Secundaria: Inter //  (https://fonts.google.com/specimen/Inter?preview.size=18&preview.text_type=paragraph)
 
 - [Extra: Roboto mono  //  (https://fonts.google.com/specimen/Roboto+Mono?preview.size=18&preview.text_type=paragraph)
+
+## Diseño web:
+https://www.figma.com/file/Xyqk3deMq0o3IaImL7zjVX/DeParis-AlpaGourmet?type=design&node-id=0-1&mode=design&t=GBJjUbw81ZxNaBT6-0
 
 ## Autor:
 
