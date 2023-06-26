@@ -1,4 +1,4 @@
-![Logo](https://github.com/AlejoDeParis22/DeParis-AlpaGourmet/blob/main/2%20sin%20t%C3%ADtulo_20230617202048.png?raw=true )
+<img src="https://github.com/AlejoDeParis22/DeParis-AlpaGourmet/blob/main/2%20sin%20t%C3%ADtulo_20230617202048.png?raw=true" width="300" height="300"/>
 
 
 # Alpa Gourmet 
