@@ -1,0 +1,94 @@
+:root{
+    --marron:#8F5828;
+    --clarito:#cdb6a2eb;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.hPrincipal{
+    background-color: var(--marron);
+    padding: 0.25% 1%;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.navPrincipal{
+    display: flex;
+    margin-right: 30px;
+}
+.navPrincipal ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navPrincipal li{
+    padding-left: 30px;
+    list-style: none;
+}
+
+.navPrincipal a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.quienesSomos{
+    background-color: var(--clarito);
+    display: flex;
+    margin: 2%;
+    padding: 2%;
+}
+
+.quienesSomos .presentacion{
+    width: 50%;
+}
+.quienesSomos .imagen{
+    width: 50%;
+    text-align: center;
+
+}
+
+footer{
+    background-color: var(--marron);
+    display: flex;
+    justify-content: space-between;
+}
+.alpaimg{
+    width: 100px;
+    height: 100px;
+}
+
+/*Estilos pag detail product*/
+
+.productmain{
+    background-color: var(--clarito);
+    display: flex;
+    padding: 20px;
+}
+.producto{
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+}
+.informacion{
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+}
+.pagos{
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+}
