@@ -1,6 +1,6 @@
 :root{
-    --marron:#8F5828;
-    --clarito:#cdb6a2eb;
+    --kumera:#8F5828;
+    --rodeoDust:#cdb6a2eb;
 }
 
 
@@ -14,13 +14,22 @@ body{
 }
 
 .hPrincipal{
-    background-color: var(--marron);
+    background-color: var(--kumera);
     padding: 0.25% 1%;
     display: flex;
     justify-content: space-between;
     height: 70px;
+    width: 100%;
 }
 
+.nombre{
+    width: 30%;
+    height: 100%;
+}
+
+.logo{
+    width: 30%;
+}
 .navPrincipal{
     display: flex;
     margin-right: 30px;
@@ -44,7 +53,7 @@ body{
 }
 
 .quienesSomos{
-    background-color: var(--clarito);
+    background-color: var(--rodeoDust);
     display: flex;
     margin: 2%;
     padding: 2%;
@@ -60,7 +69,7 @@ body{
 }
 
 footer{
-    background-color: var(--marron);
+    background-color: var(--kumera);
     display: flex;
     justify-content: space-between;
 }
@@ -72,7 +81,7 @@ footer{
 /*Estilos pag detail product*/
 
 .productmain{
-    background-color: var(--clarito);
+    background-color: var(--rodeoDust);
     display: flex;
     padding: 20px;
 }

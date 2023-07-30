@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="stylew.css">
+    <title>Product | AlpaGourmet</title>
 </head>
-<body>
-    <header class="hPrincipal">
-        <img src="logo.png" alt="Logo de la empresa">
-        <img class="nombre" src="nombre.png" alt="Alpa gourmet">
+<body class="bodyDet bodyGen">
+    <header class="headerGen">
+        <a href="index.html"><img class="logo" src="imagenes/logo.png" alt="Logo de la empresa"></a>
+        <img class="nombre" src="imagenes/nombre.png" alt="Alpa gourmet">
     <nav class="navPrincipal">
         <ul>
             <li><a href="">Categorias</a></li>
@@ -18,17 +18,25 @@
             <li><a href="">Recetas</a></li>
         </ul>
     </nav>
+
 </header>
 
-<main class="productmain">
+<main class="productMain">
     <div class="producto">
-        <img src="2_sin_título_20230617202048-removebg-preview.png" alt="Imagen de prueba">
+        <div class="imgMuestra">
+            <img src="imagenes/cuchillo.jpg" alt="Imagen de muestra de cuchillo">
+        </div>
         <div class="precio">
-            <h3>Opiniones del producto</h3>
-            <h3>Stock disponible : 150 unidades</h3>
-            <h2>$5000</h2>
+            <h2 class="">Cuchillo santoku 7 pulgadas</h2>
+            
+            <div class="botonera">
+                <h2>$5000</h2>
+                <button class="añadir">Añadir al carrito</button>
+            </div>
+
         </div>
     </div>
+
     <div class="derecha">
         <div class="informacion">
             <h3>Nombre del producto</h3>
@@ -51,15 +59,20 @@
 </main>
 
 <footer>
-    <img class="gourmet" src="logo.png" alt="Logo de la empresa">
-    <ul>
-        <li><a href="">Instagram</a></li>
-        <li><a href="">Email</a></li>
-        <li><a href="">Git Hub</a></li>
-        <li><a href="">Linkedin</a></li>
-    </ul>
-    <p>Copyright © y todos los derechos  de autor, 2023, reservados a AlpaDev Cordoba, Argentina 2023</p>
-    <img class="alpaimg" src="alpa.png" alt="Logo de alpa dev">
+    <div class="footIzq">
+        <img class="gourmet" src="imagenes/logo.png" alt="Logo de la empresa">
+        <ul>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">Email</a></li>
+            <li><a href="">GitHub</a></li>
+            <li><a href="">Linkedin</a></li>
+        </ul>
+    </div>
+
+    <div class="footDer">
+        <p>Copyright © y todos los derechos  de autor, 2023, reservados a AlpaDev Cordoba, Argentina 2023</p>
+        <img class="alpaimg" src="imagenes/alpa.png" alt="Logo de alpa dev">
+    </div>
 </footer>
 </body>
 </html>
